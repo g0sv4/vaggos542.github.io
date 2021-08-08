@@ -79,7 +79,7 @@ data= PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iSVNPLTg4NTktMSI%2FPgo8IURPQ1RZUEUg
 
 *Response:*
 
-![image-20210727231428484](![image-20210727231428484.png](https://github.com/vaggos542/vaggos542.github.io/blob/master/images/BountyHounter/image-20210727231428484.png?raw=true)
+![image-20210727231428484.png](https://github.com/vaggos542/vaggos542.github.io/blob/master/images/BountyHounter/image-20210727231428484.png?raw=true)
 
 We successfully read the **/etc/passwd** file!
 
