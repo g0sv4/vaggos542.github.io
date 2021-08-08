@@ -1,4 +1,4 @@
-## **BOUNTY HOUNTER**
+## **BOUNTY HOUNTER  WRITE  UP**
 
 Machine Difficulty: <span style="color:#39e600">Easy</span> | Machine OS: <span style="color:#39e600">Linux</span>
 
@@ -79,7 +79,7 @@ data= PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iSVNPLTg4NTktMSI%2FPgo8IURPQ1RZUEUg
 
 *Response:*
 
-![image-20210727231428484](C:\Users\542\AppData\Roaming\Typora\typora-user-images\image-20210727231428484.png)
+![image-20210727231428484](![image-20210727231428484.png](https://github.com/vaggos542/vaggos542.github.io/blob/master/images/BountyHounter/image-20210727231428484.png?raw=true)
 
 We successfully read the **/etc/passwd** file!
 
@@ -91,7 +91,7 @@ Until I used filter base64 to access the **db.php**
 <!DOCTYPE foo [ <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/var/www/html/db.php"> ]>
 ```
 
-![image-20210730010636672](C:\Users\542\AppData\Roaming\Typora\typora-user-images\image-20210730010636672.png)
+![image-20210730010636672](https://github.com/vaggos542/vaggos542.github.io/blob/master/images/BountyHounter/image-20210730010636672.png?raw=true)
 
 We got a base64 string response
 
@@ -213,7 +213,7 @@ __Ticket Code:__
 sudo /usr/bin/python3.8 /opt/skytrain_inc/ticketValidator.py
 ```
 
-![image-20210730171259804](https://github.com/vaggos542/vaggos542.github.io/blob/master/images/BountyHounter/image-20210730171259804.png?raw=true)
+![image-20210730171259804](C:\Users\542\AppData\Roaming\Typora\typora-user-images\image-20210730171259804.png)
 
 ROOT ROOT ROOT!
 
