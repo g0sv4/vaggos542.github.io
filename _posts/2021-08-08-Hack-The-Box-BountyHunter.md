@@ -213,7 +213,7 @@ __Ticket Code:__
 sudo /usr/bin/python3.8 /opt/skytrain_inc/ticketValidator.py
 ```
 
-![image-20210730171259804](C:\Users\542\AppData\Roaming\Typora\typora-user-images\image-20210730171259804.png)
+![image-20210730171259804](https://github.com/vaggos542/vaggos542.github.io/blob/master/images/BountyHounter/image-20210730171259804.png?raw=true)
 
 ROOT ROOT ROOT!
 
