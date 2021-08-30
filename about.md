@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-hi :)
+Hi, my name is Vaggos. I like hacking and ☕
