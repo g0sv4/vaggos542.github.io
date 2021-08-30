@@ -30,7 +30,7 @@ Let's take the request in burp and analyze it a little bit.
 data=PD94bWwgIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IklTTy04ODU5LTEiPz4KCQk8YnVncmVwb3J0PgoJCTx0aXRsZT50ZXN0PC90aXRsZT4KCQk8Y3dlPnRlc3Q8L2N3ZT4KCQk8Y3Zzcz50ZXN0PC9jdnNzPgoJCTxyZXdhcmQ%2BdGVzdDwvcmV3YXJkPgoJCTwvYnVncmVwb3J0Pg%3D%3D
 ```
 
-Base64 decode. We see it id xml and that is a good sign!
+Base64 decode. We see a xml and that is a good sign!
 
  ```
  <?xml  version="1.0" encoding="ISO-8859-1"?>
